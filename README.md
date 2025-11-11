@@ -17,7 +17,7 @@
 
 PGVS: A Probabilistic Graph-Theoretic Framework for View-graph Selection in Structure-from-Motion
 
-**This project will be released after the paper is accepted. It will be used as a module of [Photrix](https://github.com/zhoupengwei/Photrix) to assist in handling View-Graph Selection related problems.** 
+**This project will be released after the paper is accepted. It will be used as a module of [photrix](https://github.com/zhoupengwei/photrix) to assist in handling View-Graph Selection related problems.** 
 
 ## License
 
